@@ -1,0 +1,13 @@
+//base
+@import "./base/reset.scss";
+@import "./base/vars";
+@import "./base/mixins";
+@import "./base/base";
+
+
+//blocks
+@import './base/blocks/navbar';
+@import './base/blocks/mainPage';
+@import './base/blocks/cardsPage';
+@import './base/blocks/personCard';
+@import './base/blocks/notFound';

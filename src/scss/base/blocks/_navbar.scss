@@ -1,0 +1,51 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 30px;
+
+    align-items: center;
+}
+.navbar {
+    height: 93px;
+    padding: 10px 0 3px 0;
+    background-color: $theme-color;
+    box-shadow: 0 4px 16px 0 rgba(1, 28, 64, 0.2);
+    border-bottom: 3px rgba(160, 165, 172, 0.808) solid;
+}
+.header__nav {
+    display: flex;
+    column-gap: 73px;
+    flex-wrap: wrap;
+}
+.nav__link {
+    position: relative;
+}
+.nav__link a {
+    font-size: 25px;
+    color: $nav-color;
+}
+
+.paginate {
+    cursor: pointer;
+    display: flex;
+    margin: 40px 0;
+    align-items: center;
+    width: 100%;
+    gap: 20px;
+    justify-content: center;
+
+    font-family: $font-sub;
+    font-size: 22px;
+    text-align: center;
+    color: $main-dark-color;
+}
+
+.active {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    background-color: #2121213b;
+}
