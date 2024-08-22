@@ -1,6 +1,7 @@
 {
   "name": "star-wars-react",
   "version": "0.1.0",
+  "homepage": "https://sashakote123.github.io/SWcharacters",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
