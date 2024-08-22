@@ -6,7 +6,6 @@ const PersonCard = ({ name, hair, skin, eye, gender, year, mass, height }) => {
 
     const ref = useRef();
     const ref2 = useRef();
-    //console.log(ref.current.classList);
     useEffect(() => {
         if (ref.current) {
             if (gender === 'male') {

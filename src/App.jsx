@@ -2,7 +2,6 @@ import { Route, Routes } from "react-router";
 import CardsPage from "./components/CardsPage";
 import MainPage from "./components/MainPage";
 import NavBar from "./components/NavBar";
-import PersonCard from "./components/PersonCard";
 import NotFoundPage from "./components/NotFounfPage";
 
 

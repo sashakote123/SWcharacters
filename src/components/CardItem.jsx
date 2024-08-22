@@ -2,7 +2,6 @@ import { useEffect, useRef } from "react";
 
 const CardItem = ({ name, height, mass, gender, year, person, setPerson }) => {
     const ref = useRef();
-    //console.log(ref.current.classList);
     useEffect(() => {
         if (ref.current) {
             if (gender === 'male') {

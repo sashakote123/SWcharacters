@@ -66,15 +66,15 @@ const CardsPage = () => {
 
 
     useEffect(() => {
-        fetchData('http://swapi.dev/api/people/');
-        fetchData('http://swapi.dev/api/people/?page=2');
-        fetchData('http://swapi.dev/api/people/?page=3');
-        fetchData('http://swapi.dev/api/people/?page=4');
-        fetchData('http://swapi.dev/api/people/?page=5');
-        fetchData('http://swapi.dev/api/people/?page=6');
-        fetchData('http://swapi.dev/api/people/?page=7');
-        fetchData('http://swapi.dev/api/people/?page=8');
-        fetchData('http://swapi.dev/api/people/?page=9');
+        fetchData('https://swapi.dev/api/people/');
+        fetchData('https://swapi.dev/api/people/?page=2');
+        fetchData('https://swapi.dev/api/people/?page=3');
+        fetchData('https://swapi.dev/api/people/?page=4');
+        fetchData('https://swapi.dev/api/people/?page=5');
+        fetchData('https://swapi.dev/api/people/?page=6');
+        fetchData('https://swapi.dev/api/people/?page=7');
+        fetchData('https://swapi.dev/api/people/?page=8');
+        fetchData('https://swapi.dev/api/people/?page=9');
     }, [])
 
     const updateArray = (key) => {

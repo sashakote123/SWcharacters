@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SWcharacters/static/css/main.6c203d76.css",
-    "main.js": "/SWcharacters/static/js/main.36f117a3.js",
+    "main.js": "/SWcharacters/static/js/main.f6b2b327.js",
     "static/media/BannerComplete.svg": "/SWcharacters/static/media/BannerComplete.c9981913e23e09f3959e8e27d22513f3.svg",
     "static/media/404.png": "/SWcharacters/static/media/404.2dd342a2958be239274b.png",
     "static/media/Logo.svg": "/SWcharacters/static/media/Logo.8180f292f0c9715da5c420880b00202f.svg",
@@ -11,10 +11,10 @@
     "static/media/left.svg": "/SWcharacters/static/media/left.82296ac57e25126d6be0f320e15e71c2.svg",
     "static/media/right.svg": "/SWcharacters/static/media/right.926ef91f35dd351f75c5cfa059ee3d27.svg",
     "main.6c203d76.css.map": "/SWcharacters/static/css/main.6c203d76.css.map",
-    "main.36f117a3.js.map": "/SWcharacters/static/js/main.36f117a3.js.map"
+    "main.f6b2b327.js.map": "/SWcharacters/static/js/main.f6b2b327.js.map"
   },
   "entrypoints": [
     "static/css/main.6c203d76.css",
-    "static/js/main.36f117a3.js"
+    "static/js/main.f6b2b327.js"
   ]
 }
